@@ -5,9 +5,9 @@ Feature: Add Todo
     And the request body is
       """
 {
-  "targetDate": "2020-03-03",
+  "targetDate": "2025-05-05",
   "description": "Test",
-  "user": "Ajay",
+  "user": "Jerome",
   "done": false
 }
       """
